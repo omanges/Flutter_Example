@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+A basic Flutter application to start new developers in flutter. This can be a good start to work with flutter as it is new framework and it wil improve as it progress. Feel free to use it ;)
 
 ## Getting Started
 
