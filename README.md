@@ -6,7 +6,7 @@ A basic Flutter application to start new developers in flutter. This can be a go
 <img src="https://github.com/omanges/Flutter_Example/blob/master/assets/Screenshot_1530275748.png" width="300px">
 <br>
 <img src="https://github.com/omanges/Flutter_Example/blob/master/assets/Screenshot_1530275782.png" width="300px">
-## Getting Started
 
+#Flutter #Dart
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
